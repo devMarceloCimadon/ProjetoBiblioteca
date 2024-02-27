@@ -1,0 +1,18 @@
+2024-01-19 15:49:15.686052-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "LIVRO" not found (this database is empty); SQL statement:
+SELECT * FROM Livro [42104-224]
+2024-01-19 15:49:16.259641-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "LIVRO" not found (this database is empty); SQL statement:
+SELECT * FROM Livro [42104-224]
+2024-01-19 15:49:23.561098-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "LIVRO" not found (this database is empty); SQL statement:
+SELECT * FROM Livro [42104-224]
+2024-01-19 15:49:23.751241-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "LIVRO" not found (this database is empty); SQL statement:
+SELECT * FROM Livro [42104-224]
+2024-01-19 15:49:36.222949-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "LIVRO" not found (this database is empty); SQL statement:
+SELECT * FROM Livro [42104-224]
+2024-01-19 15:50:00.284548-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "LIVRO" not found (this database is empty); SQL statement:
+INSERT INTO Livro (NOME, AUTOR, EDITORA, CATEGORIA, DISPONIVEL) VALUES (?, ?, ?, ?, ?) [42104-224]
